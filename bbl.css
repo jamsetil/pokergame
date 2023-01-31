@@ -1,0 +1,33 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background: url(green-poker-table-background_87414-3611.jpg) no-repeat;
+    background-size:cover;
+    color: azure;
+    font-weight: bold;
+}
+h1 {
+   
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    position: relative;
+    height: 30px;
+    width: 90px;
+    font-weight: bold;
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    cursor: pointer;
+    border: 0px;
+    letter-spacing: 1.5px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: gold;
+    color:green;
+    box-shadow: 1px 1px 0px goldenrod;}
